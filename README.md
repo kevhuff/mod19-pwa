@@ -2,6 +2,9 @@
 
 This is a text editor web application with the following features and functionality.
 
+![Screenshot 2023-09-10 212034](https://github.com/kevhuff/mod19-pwa/assets/3771399/8047c759-b992-43b5-baf0-762fa518853f)
+
+
 ## Getting Started
 
 ### Folder Structure
