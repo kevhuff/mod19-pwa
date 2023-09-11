@@ -52,7 +52,9 @@ The web application has a registered service worker using Workbox for offline ca
 Static assets are pre-cached by the service worker upon loading, including subsequent pages and assets.
 
 #### Deployment
-To deploy the application to Heroku, ensure you have proper build scripts in place for your webpack application. Follow Heroku's deployment guidelines for successful deployment.
+View the app in action at my deployment below.
+L.W.T.E (sheltered-harbor-68273-21d0b53db6f6.herokuapp.com)
+(Links to an external site.)
 
 ## License
 This project is licensed under the MIT License
