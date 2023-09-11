@@ -54,7 +54,7 @@ Static assets are pre-cached by the service worker upon loading, including subse
 #### Deployment
 View the app in action at my deployment below.
 L.W.T.E
-(sheltered-harbor-68273-21d0b53db6f6.herokuapp.com)
+(https://sheltered-harbor-68273-21d0b53db6f6.herokuapp.com)
 (Links to an external site.)
 
 ## License
